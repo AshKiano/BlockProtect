@@ -1,0 +1,5 @@
+name: BlockProtect
+version: '${project.version}'
+main: com.ashkiano.blockprotect.BlockProtect
+api-version: '1.16'
+author: AshKiano
