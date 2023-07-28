@@ -16,6 +16,8 @@ public class BlockProtect extends JavaPlugin implements Listener {
         this.saveDefaultConfig();
         protectedBlocks = this.getConfig().getStringList("protected-blocks");
         getServer().getPluginManager().registerEvents(this, this);
+
+        System.out.println("Thank you for using the BlockProtect plugin! If you enjoy using this plugin, please consider making a donation to support the development. You can donate at: https://paypal.me/josefvyskocil");
     }
 
     @EventHandler
