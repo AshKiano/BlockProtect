@@ -20,7 +20,7 @@ public class BlockProtect extends JavaPlugin implements Listener {
         // Initialize Metrics for plugin analytics
         Metrics metrics = new Metrics(this, 19302);
 
-        System.out.println("Thank you for using the BlockProtect plugin! If you enjoy using this plugin, please consider making a donation to support the development. You can donate at: https://paypal.me/josefvyskocil");
+        this.getLogger().info("Thank you for using the BlockProtect plugin! If you enjoy using this plugin, please consider making a donation to support the development. You can donate at: https://donate.ashkiano.com");
     }
 
     @EventHandler

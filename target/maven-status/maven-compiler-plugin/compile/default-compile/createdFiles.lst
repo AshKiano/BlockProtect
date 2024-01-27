@@ -1,1 +1,14 @@
+com\ashkiano\blockprotect\Metrics$CustomChart.class
+com\ashkiano\blockprotect\Metrics$1.class
+com\ashkiano\blockprotect\Metrics$SimpleBarChart.class
+com\ashkiano\blockprotect\Metrics$DrilldownPie.class
+com\ashkiano\blockprotect\Metrics$SingleLineChart.class
+com\ashkiano\blockprotect\Metrics.class
+com\ashkiano\blockprotect\Metrics$JsonObjectBuilder$JsonObject.class
+com\ashkiano\blockprotect\Metrics$AdvancedPie.class
+com\ashkiano\blockprotect\Metrics$JsonObjectBuilder.class
+com\ashkiano\blockprotect\Metrics$MultiLineChart.class
+com\ashkiano\blockprotect\Metrics$SimplePie.class
 com\ashkiano\blockprotect\BlockProtect.class
+com\ashkiano\blockprotect\Metrics$MetricsBase.class
+com\ashkiano\blockprotect\Metrics$AdvancedBarChart.class
